@@ -1,0 +1,5 @@
+Hash Code:- 
+Hash code is a unique identification number alloted to the objects by the JVM.
+This hash code number is also called reference number which is created based on the location of the object in memory, and is unique for all objects, except for string class.
+
+The hashCode() method of 'Objects' class in java.lang package is useful to find the hash code of an object.
